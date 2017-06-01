@@ -71,6 +71,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
     }
 
     //this is a simple change comment
+    //this is also another change
 
     public void changeType(View view){
         if(mMap.getMapType()== GoogleMap.MAP_TYPE_NORMAL){
